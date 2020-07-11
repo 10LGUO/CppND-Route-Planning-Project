@@ -1,6 +1,6 @@
 # Route Planning Project
 
-This repo contains the starter code for the Route Planning project.
+This repo contains a A star search algorithm implementation based on openMap api and real world map.
 
 <img src="map.png" width="600" height="450" />
 
